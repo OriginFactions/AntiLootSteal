@@ -1,0 +1,7 @@
+name: ${project.artifactId}
+main: org.originmc.antilootsteal.AntiLootSteal
+version: ${project.version}
+description: ${project.description}
+author: Sudzzy
+permissions:
+  antilootsteal.bypass: { default: op }

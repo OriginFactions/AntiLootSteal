@@ -1,0 +1,11 @@
+# Version of the config file. Do not change this.
+config-version: 1
+
+# Duration the loot is protected for the killer after the kill in seconds.
+protection-duration: 15
+
+# This message is displayed when the user has killed another player and the loot is protected. Set messages to '' to display nothing.
+dropped-message: '&eThe loot dropped by &d{PLAYER}&e has been protected for you.'
+
+# This message is displayed when the user has attempted to pickup protected loot. Set messages to '' to display nothing.
+deny-message: '&cThis loot is protected for another &d{TIME}&c.'
